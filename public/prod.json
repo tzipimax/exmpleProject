@@ -1,0 +1,9 @@
+[
+    { "name": "חולצת בסיס שחורה", "price": 8, "quantity": 50, "category": "shirts" },
+    { "name": "1111", "price": 200, "quantity": 50, "category": "shirts" },
+    { "name": " חצאית סריג", "price": 80, "quantity": 50, "category": "skirts" },
+    { "name": " כפכפים", "price": 95, "quantity": 50, "category": "shoes" },
+    { "name": " חצאית יפה", "price": 80, "quantity": 50, "category": "shoes" },
+    { "name": " חצאית שחורה", "price": 80, "quantity": 50, "category": "pants" },
+    { "name": " חצאית סריג", "price": 80, "quantity": 50, "category": "shoes" }
+]
